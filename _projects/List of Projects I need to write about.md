@@ -1,6 +1,6 @@
 ---
 name: List of Projects I Need to Write about
-tools: [???]
+tools: [perseverance]
 image:
 description: List of Projects I Need to Write about
 ---
